@@ -1,6 +1,6 @@
 # Projeto variante do site Alura Books com foco em manipulação de dados via arrays
 
-### Link da prévia: https://gabrielpereira360.github.io/aluraBooks_arrays/
+### Link da prévia: https://alura-books-arrays-omega.vercel.app/
 > [!WARNING]  
 > Funcional somente em telas Desktop
 
