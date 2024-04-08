@@ -1,2 +1,4 @@
-# aluraBooks_arrays
-Projeto desenvolvido para implementar funções avançadas no Javascript para manipulação de dados em arrays
+# Projeto variante do site Alura Books com foco em manipulação de dados via arrays
+
+### Link da prévia: 
+### Linkedin: https://www.linkedin.com/in/gabriel-martins2003/
